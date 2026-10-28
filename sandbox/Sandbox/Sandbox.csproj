@@ -7,5 +7,5 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
   </PropertyGroup>
-
+print("hello world")
 </Project>
